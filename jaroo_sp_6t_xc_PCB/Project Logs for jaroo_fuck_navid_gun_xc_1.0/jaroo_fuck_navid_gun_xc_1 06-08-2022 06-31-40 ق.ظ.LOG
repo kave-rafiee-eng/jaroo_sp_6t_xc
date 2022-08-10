@@ -1,0 +1,226 @@
+Added Component: Designator=C1(CAP/0.22uF/275v/mkt)
+Added Component: Designator=C2(CAP/0.22uF/275v/mkt)
+Added Component: Designator=C3(cap/330u/16v)
+Added Component: Designator=C4(cap/330u/16v)
+Added Component: Designator=C5(CAP-0805)
+Added Component: Designator=C6(CAP-0805)
+Added Component: Designator=C7(CAP/100nF/275V/poly)
+Added Component: Designator=C8(CAP-0805)
+Added Component: Designator=D1(DIOD/1N4007/SMD)
+Added Component: Designator=D2(DIOD/1N4007/SMD)
+Added Component: Designator=D3(DIOD/1N4007/SMD)
+Added Component: Designator=D4(DIOD/1N4007/SMD)
+Added Component: Designator=D5(DIOD/1N4007/SMD)
+Added Component: Designator=L1(inductor-9*12)
+Added Component: Designator=L(pin_k)
+Added Component: Designator=MCU1(bs83b08-a)
+Added Component: Designator=MOTOR_L(pin_k)
+Added Component: Designator=MOTOR_PH(pin_k)
+Added Component: Designator=PH(pin_k)
+Added Component: Designator=PROG(CONECTOR/XH/4PIN)
+Added Component: Designator=q1(BC557)
+Added Component: Designator=q2(TL431)
+Added Component: Designator=R1(RES/1W)
+Added Component: Designator=R2(RES/0805)
+Added Component: Designator=R3(RES/0805)
+Added Component: Designator=R4(RES/0805)
+Added Component: Designator=R5(RES/1W)
+Added Component: Designator=R6(RES/0805)
+Added Component: Designator=R7(RES/0805)
+Added Component: Designator=R8(RES/0805)
+Added Component: Designator=R9(RES/0603)
+Added Component: Designator=R10(RES/0603)
+Added Component: Designator=R11(RES/0603)
+Added Component: Designator=R12(RES/0603)
+Added Component: Designator=R13(RES/0603)
+Added Component: Designator=R14(RES/0603)
+Added Component: Designator=T1(bta16)
+Added Component: Designator=T2(SOT23)
+Added Component: Designator=Touch1(fanar-touch-2led)
+Added Component: Designator=Touch2(fanar-touch-2led)
+Added Component: Designator=Touch3(fanar-touch-2led)
+Added Component: Designator=Touch4(fanar-touch-2led)
+Added Component: Designator=Touch5(fanar-touch-2led)
+Added Component: Designator=Touch6(fanar-touch-2led)
+Added Component: Designator=Z1(DIOD/RS1J)
+Added Pin To Net: NetName=+3.3 Pin=C4-+
+Added Pin To Net: NetName=+3.3 Pin=C6-2
+Added Pin To Net: NetName=+3.3 Pin=D4-K
+Added Pin To Net: NetName=+3.3 Pin=MCU1-10
+Added Pin To Net: NetName=+3.3 Pin=PROG-2
+Added Pin To Net: NetName=+3.3 Pin=Touch1-AR
+Added Pin To Net: NetName=+3.3 Pin=Touch2-AR
+Added Pin To Net: NetName=+3.3 Pin=Touch3-AR
+Added Pin To Net: NetName=+3.3 Pin=Touch4-AR
+Added Pin To Net: NetName=+3.3 Pin=Touch5-AR
+Added Pin To Net: NetName=+3.3 Pin=Touch6-AR
+Added Net: Name=+3.3
+Added Pin To Net: NetName=+5 Pin=C3-+
+Added Pin To Net: NetName=+5 Pin=C5-2
+Added Pin To Net: NetName=+5 Pin=D1-K
+Added Pin To Net: NetName=+5 Pin=D2-A
+Added Pin To Net: NetName=+5 Pin=PH-1
+Added Pin To Net: NetName=+5 Pin=PH-1
+Added Pin To Net: NetName=+5 Pin=q1-E
+Added Pin To Net: NetName=+5 Pin=R2-2
+Added Pin To Net: NetName=+5 Pin=R3-2
+Added Pin To Net: NetName=+5 Pin=R5-1
+Added Pin To Net: NetName=+5 Pin=T1-A1
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=C3--
+Added Pin To Net: NetName=GND Pin=C4--
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=D5-A
+Added Pin To Net: NetName=GND Pin=MCU1-9
+Added Pin To Net: NetName=GND Pin=PROG-1
+Added Pin To Net: NetName=GND Pin=q1-C
+Added Pin To Net: NetName=GND Pin=q2-A
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=T2-2
+Added Pin To Net: NetName=GND Pin=Touch1-KW
+Added Pin To Net: NetName=GND Pin=Touch2-KW
+Added Pin To Net: NetName=GND Pin=Touch3-KW
+Added Pin To Net: NetName=GND Pin=Touch4-KW
+Added Pin To Net: NetName=GND Pin=Touch5-KW
+Added Pin To Net: NetName=GND Pin=Touch6-KW
+Added Pin To Net: NetName=GND Pin=Z1-K
+Added Net: Name=GND
+Added Pin To Net: NetName=ICPCK Pin=MCU1-12
+Added Pin To Net: NetName=ICPCK Pin=PROG-3
+Added Pin To Net: NetName=ICPCK Pin=R14-2
+Added Net: Name=ICPCK
+Added Pin To Net: NetName=ICPDA Pin=MCU1-13
+Added Pin To Net: NetName=ICPDA Pin=PROG-4
+Added Pin To Net: NetName=ICPDA Pin=R13-2
+Added Net: Name=ICPDA
+Added Pin To Net: NetName=L Pin=L-1
+Added Pin To Net: NetName=L Pin=L-1
+Added Pin To Net: NetName=L Pin=L1-1
+Added Pin To Net: NetName=L Pin=MOTOR_L-1
+Added Pin To Net: NetName=L Pin=MOTOR_L-1
+Added Pin To Net: NetName=L Pin=R7-1
+Added Net: Name=L
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C2-1
+Added Pin To Net: NetName=NetC1_1 Pin=L1-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C2-2
+Added Pin To Net: NetName=NetC1_2 Pin=R1-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=R5-2
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=MOTOR_PH-1
+Added Pin To Net: NetName=NetC7_2 Pin=MOTOR_PH-1
+Added Pin To Net: NetName=NetC7_2 Pin=T1-A2
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=D5-K
+Added Pin To Net: NetName=NetD1_A Pin=R1-2
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD2_K Pin=D2-K
+Added Pin To Net: NetName=NetD2_K Pin=D3-A
+Added Net: Name=NetD2_K
+Added Pin To Net: NetName=NetD3_K Pin=D3-K
+Added Pin To Net: NetName=NetD3_K Pin=D4-A
+Added Net: Name=NetD3_K
+Added Pin To Net: NetName=NetMCU1_11 Pin=MCU1-11
+Added Pin To Net: NetName=NetMCU1_11 Pin=R8-1
+Added Net: Name=NetMCU1_11
+Added Pin To Net: NetName=Netq1_B Pin=q1-B
+Added Pin To Net: NetName=Netq1_B Pin=q2-C
+Added Pin To Net: NetName=Netq1_B Pin=R2-1
+Added Net: Name=Netq1_B
+Added Pin To Net: NetName=Netq2_REF Pin=q2-REF
+Added Pin To Net: NetName=Netq2_REF Pin=R3-1
+Added Pin To Net: NetName=Netq2_REF Pin=R4-2
+Added Net: Name=Netq2_REF
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=T1-G
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=T2-3
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=T2-1
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=Touch1-AW
+Added Pin To Net: NetName=NetR9_1 Pin=Touch1-KR
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=Touch2-AW
+Added Pin To Net: NetName=NetR10_1 Pin=Touch2-KR
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=Touch3-AW
+Added Pin To Net: NetName=NetR11_1 Pin=Touch3-KR
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=Touch4-AW
+Added Pin To Net: NetName=NetR12_1 Pin=Touch4-KR
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=Touch5-AW
+Added Pin To Net: NetName=NetR13_1 Pin=Touch5-KR
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=Touch6-AW
+Added Pin To Net: NetName=NetR14_1 Pin=Touch6-KR
+Added Net: Name=NetR14_1
+Added Pin To Net: NetName=TL1 Pin=MCU1-7
+Added Pin To Net: NetName=TL1 Pin=R9-2
+Added Net: Name=TL1
+Added Pin To Net: NetName=TL2 Pin=MCU1-8
+Added Pin To Net: NetName=TL2 Pin=R10-2
+Added Net: Name=TL2
+Added Pin To Net: NetName=TL3 Pin=MCU1-16
+Added Pin To Net: NetName=TL3 Pin=R11-2
+Added Net: Name=TL3
+Added Pin To Net: NetName=TL4 Pin=MCU1-14
+Added Pin To Net: NetName=TL4 Pin=R12-2
+Added Net: Name=TL4
+Added Pin To Net: NetName=Touch_1 Pin=MCU1-1
+Added Pin To Net: NetName=Touch_1 Pin=Touch1-T
+Added Pin To Net: NetName=Touch_1 Pin=Touch1-T
+Added Net: Name=Touch_1
+Added Pin To Net: NetName=Touch_2 Pin=MCU1-2
+Added Pin To Net: NetName=Touch_2 Pin=Touch2-T
+Added Pin To Net: NetName=Touch_2 Pin=Touch2-T
+Added Net: Name=Touch_2
+Added Pin To Net: NetName=Touch_3 Pin=MCU1-3
+Added Pin To Net: NetName=Touch_3 Pin=Touch3-T
+Added Pin To Net: NetName=Touch_3 Pin=Touch3-T
+Added Net: Name=Touch_3
+Added Pin To Net: NetName=Touch_4 Pin=MCU1-4
+Added Pin To Net: NetName=Touch_4 Pin=Touch4-T
+Added Pin To Net: NetName=Touch_4 Pin=Touch4-T
+Added Net: Name=Touch_4
+Added Pin To Net: NetName=Touch_5 Pin=MCU1-5
+Added Pin To Net: NetName=Touch_5 Pin=Touch5-T
+Added Pin To Net: NetName=Touch_5 Pin=Touch5-T
+Added Net: Name=Touch_5
+Added Pin To Net: NetName=Touch_on Pin=MCU1-6
+Added Pin To Net: NetName=Touch_on Pin=Touch6-T
+Added Pin To Net: NetName=Touch_on Pin=Touch6-T
+Added Net: Name=Touch_on
+Added Pin To Net: NetName=ZDC Pin=C8-2
+Added Pin To Net: NetName=ZDC Pin=MCU1-15
+Added Pin To Net: NetName=ZDC Pin=R7-2
+Added Pin To Net: NetName=ZDC Pin=Z1-A
+Added Net: Name=ZDC
+Added Class: Name=U_Capacitive_touch
+Added Class: Name=U_Connector
+Added Class: Name=U_Mcu
+Added Class: Name=U_Power
+Added Class: Name=U_Traiak
+Added Class: Name=power
+Added Room: Name=U_Capacitive_touch
+Added Room: Name=U_Connector
+Added Room: Name=U_Mcu
+Added Room: Name=U_Power
+Added Room: Name=U_Traiak

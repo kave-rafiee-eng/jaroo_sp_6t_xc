@@ -1,0 +1,229 @@
+
+Linker Version 8.7.7.211123
+Input Object File: C:\Users\barby\AppData\Local\Temp\BS83B08A_LIBV413.OBJ
+Input Object File: C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ
+Input Object File: C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\STARTUP1_L.OBJ
+Input Object File: C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\MAIN_PROGRAM_V103.OBJ
+Input Object File: C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\TIMER.OBJ
+Input Object File: C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\CLOCK.OBJ
+Input Object File: C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\EX_INT.OBJ
+Input Object File: C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\GPIO.OBJ
+Input Object File: C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\TOUCH.OBJ
+
+Input Library File: C:\Program Files\Holtek MCU Development Tools\HT-IDE3000V8.x\LIB\LIBHOLTEKGCC.LIB
+Input Library File: C:\Program Files\Holtek MCU Development Tools\HT-IDE3000V8.x\LIB\v3_tabrd_mrsc.lib
+
+
+     Bank    Start     End      Length     Class    AvgIns    Name
+     00h     0000h     0003h    0004h      CODE               PROGRAM_ENTRY (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\MAIN_PROGRAM_V103.OBJ)
+     00h     0004h     0007h    0004h      CODE               @ex_interupt_code (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     0008h     0008h    0001h      CODE               TOUCH_INT (C:\Users\barby\AppData\Local\Temp\BS83B08A_LIBV413.OBJ)
+     00h     0009h     0009h    0001h      CODE               LIBRARY_VERSION (C:\Users\barby\AppData\Local\Temp\BS83B08A_LIBV413.OBJ)
+     00h     000ah     000bh    0002h      CODE               _USER_PROGRAM_INITIAL (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     000ch     000fh    0004h      CODE               @timer_code (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     0010h     0013h    0004h      CODE               @ROMDATA_BASE (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     0014h     0017h    0004h      CODE               TIME_BASE_INT (C:\Users\barby\AppData\Local\Temp\BS83B08A_LIBV413.OBJ)
+     00h     0018h     049ch    0485h      CODE               TKS_LIBRARY_CODE (C:\Users\barby\AppData\Local\Temp\BS83B08A_LIBV413.OBJ)
+     00h     049dh     04e4h    0048h      CODE               MAIN_PROGRAM (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\MAIN_PROGRAM_V103.OBJ)
+     00h     04e5h     05fah    0116h      CODE               _timer (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     05fbh     0606h    000ch      CODE               _ex_interupt (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     0607h     0631h    002bh      CODE               _USER_PROGRAM (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     0632h     0667h    0036h      CODE               _ini_main (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     0668h     066dh    0006h      CODE               _timer_ini (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\TIMER.OBJ)
+     00h     066eh     0670h    0003h      CODE               _timer_interupt_enable (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\TIMER.OBJ)
+     00h     0671h     0675h    0005h      CODE               _timer_ini_for_led (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\TIMER.OBJ)
+     00h     0676h     067ah    0005h      CODE               _timer_ini_for_drive (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\TIMER.OBJ)
+     00h     067bh     0682h    0008h      CODE               _clock_ini (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\CLOCK.OBJ)
+     00h     0683h     0686h    0004h      CODE               _EX_INT_init (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\EX_INT.OBJ)
+     00h     0687h     068eh    0008h      CODE               _GPIO_ini (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\GPIO.OBJ)
+     00h     068fh     071fh    0091h      CODE               _touch_led_manage (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\TOUCH.OBJ)
+     00h     0060h     00dah    007bh      DATA     0.1138    TKS_LIBRARY_DATA0 (C:\Users\barby\AppData\Local\Temp\BS83B08A_LIBV413.OBJ)
+     00h     00dbh     00dch    0002h      DATA     2         @HCCINIT (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00ddh     00e5h    0009h      DATA     11.556    @HCCINIT0 (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00e6h     00e7h    0002h      DATA     3         MAIN_DATA (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\MAIN_PROGRAM_V103.OBJ)
+     00h     00e8h     00e8h    0001h      DATA     64        @data_ra (C:\Program Files\Holtek MCU Development Tools\HT-IDE3000V8.x\LIB\LIBHOLTEKGCC.LIB)
+     00h     00e9h     00e9h    0001h      DATA     2         @data_r10c (isr:ra~rh)
+     00h     00eah     00eah    0001h      DATA     2         @data_r20c (isr:ra~rh)
+     00h     00ebh     00ebh    0001h      DATA     49        @data_ra0c (isr:ra~rh)
+     00h     00ech     00ech    0001h      DATA     10        @data_rd0c (isr:ra~rh)
+     00h     00edh     00edh    0001h      DATA     24        @data_rb0c (isr:ra~rh)
+     00h     00eeh     00eeh    0001h      DATA     10        @data_re0c (isr:ra~rh)
+     00h     00efh     00efh    0001h      DATA     12        @data_rc0c (isr:ra~rh)
+     00h     00f0h     00f0h    0001h      DATA     2         @data_r104 (isr:ra~rh)
+     00h     00f1h     00f1h    0001h      DATA     2         @data_r204 (isr:ra~rh)
+
+     Local Sections
+
+     Bank    Start     End      Length     Class    AvgIns    Name
+     00h     00f2h     00f2h    0000h      LOCAL    0         @dummy12 (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00f2h     00f2h    0000h      LOCAL    0         _timer (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00f2h     00f2h    0000h      LOCAL    0         @dummy4 (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00f2h     00f2h    0000h      LOCAL    0         _ex_interupt (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00f3h     00f3h    0001h      LOCAL    3         _USER_PROGRAM (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00f2h     00f2h    0001h      LOCAL    6         _touch_led_manage (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\TOUCH.OBJ)
+     00h     00f2h     00f2h    0000h      LOCAL    0         _USER_PROGRAM_INITIAL (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00f2h     00f2h    0000h      LOCAL    0         _ini_main (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\USER_PROGRAM.OBJ)
+     00h     00f2h     00f2h    0000h      LOCAL    0         _clock_ini (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\CLOCK.OBJ)
+     00h     00f2h     00f2h    0000h      LOCAL    0         _GPIO_ini (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\GPIO.OBJ)
+     00h     00f2h     00f2h    0000h      LOCAL    0         _EX_INT_init (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\EX_INT.OBJ)
+     00h     00f2h     00f2h    0000h      LOCAL    0         _timer_interupt_enable (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\TIMER.OBJ)
+
+     Indepentent Local Sections
+
+     Bank    Start     End      Length     Class    AvgIns    Name
+     00h     00f2h     00f2h    0000h      ILOCAL   0         _timer_ini (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\TIMER.OBJ)
+     00h     00f2h     00f2h    0000h      ILOCAL   0         _timer_ini_for_led (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\TIMER.OBJ)
+     00h     00f2h     00f2h    0000h      ILOCAL   0         _timer_ini_for_drive (C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\TIMER.OBJ)
+
+     Public Symbols Information
+     Address            Public by Name
+     0082h[3]           _ANY_KEY_PRESSF
+     0018h              _BS83B08A_LIBV413
+     008ch              _BS83B08A_LIBV413_INITIAL
+     0114h              _CHECK_KEY_WAKEUP
+     006bh              _DATA_BUF
+     0683h              _EX_INT_init
+     0082h[0]           _FORCE_CALIBRATEF
+     0485h              _GET_ENV_VALUE
+     047dh              _GET_KEY_AMOUNT
+     047fh              _GET_KEY_BITMAP
+     0478h              _GET_LIB_VER
+     0482h              _GET_RCC_VALUE
+     0488h              _GET_REF_VALUE
+     0060h              _GLOBE_VARIES
+     0687h              _GPIO_ini
+     0077h              _KEY_DATA
+     0076h              _KEY_IO_SEL
+     009bh              _KEY_REF
+     0083h              _KEY_STATUS
+     008ch              _LIBRARY_RESET
+     04cch              _LOAD_HXT_REFERENCE
+     04cch              _LOAD_TKS_GLOBE_VARIES
+     0073h              _SAMPLE_TIMES
+     0082h[2]           _SCAN_CYCLEF
+     0074h              _STANDBY_TIME
+     0082h[5]           _TKS_250MSF
+     0082h[6]           _TKS_500MSF
+     0082h[4]           _TKS_63MSF
+     0082h[1]           _TKS_ACTIVEF
+     0082h              _TKS_FLAGA
+     0075h              _TKS_TIME_BASE
+     0607h              _USER_PROGRAM
+     000ah              _USER_PROGRAM_INITIAL
+     067bh              _clock_ini
+     05fbh              _ex_interupt
+     00dch              _i
+     0632h              _ini_main
+     00e1h              _jaroo
+     00ddh              _pwm
+     04e5h              _timer
+     0668h              _timer_ini
+     0676h              _timer_ini_for_drive
+     0671h              _timer_ini_for_led
+     066eh              _timer_interupt_enable
+     00dbh              _timer_load
+     00e0h              _touch
+     068fh              _touch_led_manage
+     00f0h              r104
+     00e9h              r10c
+     00f1h              r204
+     00eah              r20c
+     00e8h              ra
+     00ebh              ra0c
+     00edh              rb0c
+     00efh              rc0c
+     00ech              rd0c
+     00eeh              re0c
+
+     Address            Public by Value
+     000ah              _USER_PROGRAM_INITIAL
+     0018h              _BS83B08A_LIBV413
+     0060h              _GLOBE_VARIES
+     006bh              _DATA_BUF
+     0073h              _SAMPLE_TIMES
+     0074h              _STANDBY_TIME
+     0075h              _TKS_TIME_BASE
+     0076h              _KEY_IO_SEL
+     0077h              _KEY_DATA
+     0082h              _TKS_FLAGA
+     0083h              _KEY_STATUS
+     008ch              _LIBRARY_RESET
+     008ch              _BS83B08A_LIBV413_INITIAL
+     009bh              _KEY_REF
+     00dbh              _timer_load
+     00dch              _i
+     00ddh              _pwm
+     00e0h              _touch
+     00e1h              _jaroo
+     00e8h              ra
+     00e9h              r10c
+     00eah              r20c
+     00ebh              ra0c
+     00ech              rd0c
+     00edh              rb0c
+     00eeh              re0c
+     00efh              rc0c
+     00f0h              r104
+     00f1h              r204
+     0114h              _CHECK_KEY_WAKEUP
+     0082h[0]           _FORCE_CALIBRATEF
+     0082h[1]           _TKS_ACTIVEF
+     0082h[2]           _SCAN_CYCLEF
+     0082h[3]           _ANY_KEY_PRESSF
+     0082h[4]           _TKS_63MSF
+     0082h[5]           _TKS_250MSF
+     0082h[6]           _TKS_500MSF
+     0478h              _GET_LIB_VER
+     047dh              _GET_KEY_AMOUNT
+     047fh              _GET_KEY_BITMAP
+     0482h              _GET_RCC_VALUE
+     0485h              _GET_ENV_VALUE
+     0488h              _GET_REF_VALUE
+     04cch              _LOAD_TKS_GLOBE_VARIES
+     04cch              _LOAD_HXT_REFERENCE
+     04e5h              _timer
+     05fbh              _ex_interupt
+     0607h              _USER_PROGRAM
+     0632h              _ini_main
+     0668h              _timer_ini
+     066eh              _timer_interupt_enable
+     0671h              _timer_ini_for_led
+     0676h              _timer_ini_for_drive
+     067bh              _clock_ini
+     0683h              _EX_INT_init
+     0687h              _GPIO_ini
+     068fh              _touch_led_manage
+
+
+ROM Usage Statistics
+     Size      Used     Percentage
+     0800h     0720h    89%
+
+RAM Usage Statistics
+    Bank      Size      Used     Percentage
+     00h       00a0h     0094h    92%
+     Total     00a0h     0094h    92%
+
+Use Stack Count
+_timer: 0
+_ex_interupt: 0
+_USER_PROGRAM: 1
+_USER_PROGRAM_INITIAL: 2
+
+Call Tree
+    @dummy12
+        _timer (0)
+    @dummy4
+        _ex_interupt (0)
+    _USER_PROGRAM
+        _touch_led_manage (0)
+    _USER_PROGRAM_INITIAL
+        _ini_main (0)
+            _clock_ini (1)
+            _GPIO_ini (1)
+            _EX_INT_init (1)
+            _timer_interupt_enable (1)
+
+HLINK: Program entry point at section 'PROGRAM_ENTRY' (address 0) of file 'C:\Users\barby\Desktop\Company_work\Ronic\jaroo_fuck_navid_gun_xc_CODE\20160607_LIBV413\OUTPUT\MAIN_PROGRAM_V103.OBJ'
+
+Total 0 error(s), Total 0 Warning(s)
